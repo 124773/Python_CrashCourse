@@ -1,0 +1,7 @@
+# Output in python
+# The Print() function is used to display output on the screen
+print("Hello World")
+
+# Python statements have no terminator
+
+print(2+2)
